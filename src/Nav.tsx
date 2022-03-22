@@ -13,7 +13,7 @@ function Nav() {
         <a className="flex gap-x-1 items-center text-slate-300 hover:text-white text-xl" href='https://github.com/dya-code'>
             <span className='font-light'>Github</span>
         </a>
-    </nav>
+      </nav>
     </div>
   )
 }
